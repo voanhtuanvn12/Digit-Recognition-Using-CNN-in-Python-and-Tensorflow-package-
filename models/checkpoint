@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\PPNCKH\\TensorFlow/models/mnist-cnn"
+all_model_checkpoint_paths: "D:\\PPNCKH\\TensorFlow/models/mnist-cnn"
